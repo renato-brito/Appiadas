@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_joker_hint">Aqui será exibida a piada</string>
+    <string name="button_new_joker">Contar outra piada</string>
+    <string name="joker_one">Contar outra piada</string>
+    <string name="joker_two">Contar outra piada</string>
+    <string name="joker_three">Contar outra piada</string>
+    <string name="joker_four">Contar outra piada</string>
+    <string name="joker_five">Contar outra piada</string>
+    <string name="joker_six">Contar outra piada</string>
+    <string name="joker_seven">Contar outra piada</string>
+</resources>
