@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_new_joker">tell another joke</string>
+    <string name="label_joker_hint">Here the joke will be displayed</string>
+    <string name="joker_one">Why is the spider the most needy animal in the world? \\nBecause it is an aracneedyou.</string>
+    <string name="joker_two">Why doesn\'t the pine tree get lost in the forest? \\nBecause it has a pine cone.</string>
+    <string name="joker_three">What did a pagodeiro do in the church? \\nIt was singing PÁ GOD.</string>
+    <string name="joker_four">Why was Napoleon always called to parties? \\nBecause he was GOOD ON PARTY.</string>
+    <string name="joker_five">What is the king of cheese? \\nIt is the curd.</string>
+    <string name="joker_six">Why doesn\'t the old lady wear a watch? \\nBecause she\'s a lady.</string>
+    <string name="joker_seven">When did the Americans first eat meat? \\nWhen Cristovão Com Tombo arrived.</string>
+</resources>
